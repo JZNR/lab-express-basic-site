@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-image: url("/images/about.jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+a {
+    color: purple;
+    margin: 10px;
+    font-size: 32px;
+    text-decoration:  none; 
+}

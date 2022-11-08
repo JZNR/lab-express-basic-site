@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    gap: 50%;
+    background-image: url("/images/background.jpeg");
+}
+
+a {
+    color: white;
+    margin: 10px;
+    font-size: 32px;
+    text-decoration:  none; 
+}
